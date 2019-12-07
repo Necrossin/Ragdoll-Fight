@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Ragdoll Fight"
+	"version"		"gonna lose track of it anyway"
+	"up_date"	""
+	"author_name"	"Necrossin"
+	"author_email"	""
+	"author_url"	""
+	"info"		"Punch people"
+	"override"	"0"
+}
